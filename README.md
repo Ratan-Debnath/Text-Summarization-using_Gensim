@@ -6,10 +6,10 @@ This project demonstrates **extractive text summarization** using Python librari
 
 ## Features
 
-- 🔹 Automatic summarization using **Gensim’s TextRank algorithm**
-- 🔹 Text preprocessing and tokenization powered by **spaCy**
-- 🔹 Simple and modular Python scripts
-- 🔹 Accepts any plain-text input (articles, documents, etc.)
+- Automatic summarization using **Gensim’s TextRank algorithm**
+- Text preprocessing and tokenization powered by **spaCy**
+- Simple and modular Python scripts
+- Accepts any plain-text input (articles, documents, etc.)
 
 ---
 
@@ -18,3 +18,11 @@ This project demonstrates **extractive text summarization** using Python librari
 - Python 3.x  
 - [Gensim](https://radimrehurek.com/gensim/) – for extractive summarization  
 - [spaCy](https://spacy.io/) – for natural language preprocessing  
+
+---
+
+##  Use Cases
+- News summarization
+- Legal & academic content previews
+- Long document summarization
+- Chatbot and LLM input compression
